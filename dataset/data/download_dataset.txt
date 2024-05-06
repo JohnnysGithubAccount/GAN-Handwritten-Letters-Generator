@@ -1,1 +1,2 @@
-
+Because the file is so heavy, so github won't let me upload it. But here is the link to download it.
+https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
