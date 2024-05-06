@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1714886763817
+current_stage: None
+description: ''
+last_updated_timestamp: 1714886763817
+name: FCGeneratorModel
+run_id: 95e9be1b01024a2682843dee8b8b3e2a
+run_link: ''
+source: file:///D:/UsingSpace/Programing Languages Learning/Python Programing/HCMUTE
+  Projects/Artificial Intelligence/MLflows/GAN/GAN/95e9be1b01024a2682843dee8b8b3e2a/artifacts/GAN/project/modelsGenerator
+status: READY
+status_message: null
+storage_location: file:///D:/UsingSpace/Programing Languages Learning/Python Programing/HCMUTE
+  Projects/Artificial Intelligence/MLflows/GAN/GAN/95e9be1b01024a2682843dee8b8b3e2a/artifacts/GAN/project/modelsGenerator
+user_id: null
+version: 1

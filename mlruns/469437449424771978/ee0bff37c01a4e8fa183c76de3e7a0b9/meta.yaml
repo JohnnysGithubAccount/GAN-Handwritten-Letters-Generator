@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/UsingSpace/Programing Languages Learning/Python Programing/HCMUTE
+  Projects/Artificial Intelligence/MLflows/GAN/GAN/ee0bff37c01a4e8fa183c76de3e7a0b9/artifacts
+end_time: 1714757356377
+entry_point_name: ''
+experiment_id: '469437449424771978'
+lifecycle_stage: active
+run_id: ee0bff37c01a4e8fa183c76de3e7a0b9
+run_name: discriminator_loss
+run_uuid: ee0bff37c01a4e8fa183c76de3e7a0b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714757348352
+status: 3
+tags: []
+user_id: Admins
