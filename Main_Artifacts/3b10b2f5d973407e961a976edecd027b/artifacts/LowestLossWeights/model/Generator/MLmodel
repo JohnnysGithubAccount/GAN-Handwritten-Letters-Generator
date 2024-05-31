@@ -1,0 +1,26 @@
+artifact_path: LowestLossWeights/model/Generator
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.13
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.2.1+cu121
+mlflow_version: 2.11.1
+model_size_bytes: 17310804
+model_uuid: 3c7b868fdfe34edc94bfb31efeeb636d
+run_id: 3b10b2f5d973407e961a976edecd027b
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 100]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    1, 28, 28]}}]'
+  params: null
+utc_time_created: '2024-05-30 16:34:00.903274'
