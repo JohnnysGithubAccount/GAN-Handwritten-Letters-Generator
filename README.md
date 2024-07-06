@@ -8,7 +8,7 @@ This project is the one use for final of the subject Machine Learning and Artifi
 
 Some main scripts you need to know is the scripts that are not put in a folder.
 1. deploy.py
-2. This is called batch inference. Which mean you gotta download the model first then use it like a normal model you create using you physical machine.
+   This is called batch inference. Which mean you gotta download the model first then use it like a normal model you create using you physical machine.
 3. early_best_weights.py
    This is also for training the model, but this more advance, with apply Early Stopping and Learning Rate Scheduler.
    This included system metrics.
